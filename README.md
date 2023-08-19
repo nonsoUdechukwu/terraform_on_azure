@@ -41,8 +41,8 @@ Dive deeper into Terraform's features and how they can be used to manage complex
   - Integrating with Azure DevOps
 
 - **Resources**:
-  - [Terraform Configuration Files](/part-2/configurations/)
-  - [Supplementary Materials](/part-2/resources/)
+  - [Terraform Configuration Files](#)
+  - [Supplementary Materials](#)
 
 ---
 
@@ -57,16 +57,11 @@ Learn how to write production-grade Terraform configurations and best practices 
   - Continuous Integration and Continuous Deployment (CI/CD) with Terraform on Azure
 
 - **Resources**:
-  - [Terraform Configuration Files](/part-3/configurations/)
-  - [Supplementary Materials](/part-3/resources/)
+  - [Terraform Configuration Files](#)
+  - [Supplementary Materials](#)
 
 ---
 
-## Contributing
-
-We welcome contributions to this series! Please read our [CONTRIBUTING.md](/CONTRIBUTING.md) for details on how to contribute.
-
-## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](/LICENSE.md) file for details.
 
