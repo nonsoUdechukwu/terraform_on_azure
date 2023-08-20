@@ -1,6 +1,3 @@
-Certainly! Here's a sample `README.md` for a three-part series on "Terraform on Azure":
-
----
 
 # Terraform on Azure Series
 
