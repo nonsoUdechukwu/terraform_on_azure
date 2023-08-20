@@ -58,10 +58,3 @@ Learn how to write production-grade Terraform configurations and best practices 
   - [Supplementary Materials](#)
 
 ---
-
-
-This project is licensed under the MIT License - see the [LICENSE.md](/LICENSE.md) file for details.
-
----
-
-This is a basic structure for the README. Depending on the depth and complexity of your series, you might want to expand on each section, add more links, or even include screenshots or diagrams to make it more engaging.
